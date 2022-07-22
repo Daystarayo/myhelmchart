@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  oak:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-07-22T19:33:05.471654404Z"
+    description: A Helm chart for Kubernetes
+    digest: b3a4ef6f7011200d546a168b7c7ce35c5f3d819faeb0da7e8794494b2f549f0f
+    name: oak
+    type: application
+    urls:
+    - oak-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-07-22T19:33:05.470778202Z"
